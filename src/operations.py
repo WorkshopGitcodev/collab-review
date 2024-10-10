@@ -5,7 +5,8 @@ Arithmetic operations
 def summation(a, b):
     return a + b
 
-def subtraction(a, b):
+def sub(a, b):
+    #TODO: would be good to give this function a better name
     return a - b
 
 def division(a, b):
