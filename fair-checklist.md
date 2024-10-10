@@ -5,4 +5,4 @@
 - [ ] Clean the source source code in the `src/` directory. Broken code might be commented out, or old and unused code might still be there.
 - [ ] Learn about [Pytest](https://docs.pytest.org/en/stable/getting-started.html)  and write a unit-test for the functon `division()` in `operations.py`
 
-> For more visit: https://tu-delft-dcc.github.io/software/fair.html
+> For more visit: https://tu-delft-dcc.github.io/docs/software/checklist.html
